@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+<kalendarium>
+	<grupa nazwa="Microsoft">
+		<podgrupa nazwa="Inżynieria oprogramowania">
+			<kurs typ="autoryzowany">
+				<kod>MS 2030</kod>
+				<nazwa>Creating Reporting Solutions using Microsoft SQL Server 2000 Reporting Services</nazwa>
+				<czas>2</czas>
+				<cena waluta="PLN">2100</cena>
+				<osrodek miasto="Katowice" adres="ul. Przemyslowa 10" 
+				    kod="40-020" tel1="757 29 10" tel2="757 29 11" fax="757 29 13" email="katowice@altkom.pl">
+				    <termin dd="18" mm="04" yy="2006" />
+			    	<termin dd="19" mm="06" yy="2006" />
+					<termin dd="10" mm="07" yy="2006" />
+				</osrodek>
+			</kurs>
+		</podgrupa>
+	</grupa>
+</kalendarium>
